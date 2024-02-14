@@ -1,0 +1,12 @@
+﻿  TicTacToe.c
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(69,25): warning C4047: 'function': 'char *(*)[3]' differs in levels of indirection from 'char [3]'
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(69,25): warning C4024: 'emptyArray': different types for formal and actual parameter 1
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(165,34): warning C4047: 'function': 'char *(*)[3]' differs in levels of indirection from 'char (*)[3]'
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(165,34): warning C4024: 'computerMove': different types for formal and actual parameter 1
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(177,34): warning C4047: 'function': 'char *(*)[3]' differs in levels of indirection from 'char (*)[3]'
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(177,34): warning C4024: 'computerMove': different types for formal and actual parameter 1
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(201,22): warning C4047: 'function': 'char *(*)[3]' differs in levels of indirection from 'char (*)[3]'
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(201,22): warning C4024: 'computerMove': different types for formal and actual parameter 1
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(206,11): warning C4047: 'initializing': 'char (*)[3]' differs in levels of indirection from 'char *(*)[3]'
+C:\Users\ooo\source\repos\TicTacToeee\TicTacToe.c(212,11): warning C4047: 'initializing': 'char (*)[3]' differs in levels of indirection from 'char *(*)[3]'
+  TicTacToeee.vcxproj -> C:\Users\ooo\source\repos\TicTacToeee\x64\Debug\TicTacToeee.exe
